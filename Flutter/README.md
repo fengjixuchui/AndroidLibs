@@ -9,9 +9,283 @@
 
 ---
 
+**https://flutterawesome.com/**: https://flutterawesome.com/
+
+https://flutterawesome.com/
+
+---
+
+**flutter-tutorials**: https://github.com/FilledStacks/flutter-tutorials
+
+The repo contains the source code for all the tutorials on the FilledStacks Youtube channel.
+
+---
+
+**fluttercandies**: https://github.com/fluttercandies
+
+flutter糖果集合，包含extended_image， extended_text_field等
+
+---
+
 **https://itsallwidgets.com**: https://itsallwidgets.com/
 
 https://itsallwidgets.com/: flutter 项目集合
+
+---
+
+**trans2fw**: https://github.com/ryan730/trans2fw
+
+自动化 flutter native 项目转化成 flutter-web 项目
+
+---
+
+**flutter_spinkit**: https://github.com/jogboms/flutter_spinkit
+
+ A collection of loading indicators animated with flutter
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/ybq/AndroidSpinKit/master/art/RotatingPlane.gif" width="100px">
+      <br />
+      RotatingPlane
+      <br />
+      ✅
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/ybq/AndroidSpinKit/master/art/DoubleBounce.gif" width="100px">
+      <br />
+      DoubleBounce
+      <br />
+      ✅
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/ybq/AndroidSpinKit/master/art/Wave.gif" width="100px">
+      <br />
+      Wave
+      <br />
+      ✅
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/ybq/AndroidSpinKit/master/art/WanderingCubes.gif" width="100px">
+      <br />
+      WanderingCubes
+      <br />
+      ✅
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/jogboms/flutter_spinkit/master/screenshots/FadingFour.gif" width="100px">
+      <br />
+      FadingFour
+      <br />
+      ✅
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/jogboms/flutter_spinkit/master/screenshots/FadingCube.gif" width="100px">
+      <br />
+      FadingCube
+      <br />
+      ✅
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/ybq/AndroidSpinKit/master/art/Pulse.gif" width="100px">
+      <br />
+      Pulse
+      <br />
+      ✅
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/ybq/AndroidSpinKit/master/art/ChasingDots.gif" width="100px">
+      <br />
+      ChasingDots
+      <br />
+      ✅
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/ybq/AndroidSpinKit/master/art/ThreeBounce.gif" width="100px">
+      <br />
+      ThreeBounce
+      <br />
+      ✅
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/ybq/AndroidSpinKit/master/art/Circle.gif" width="100px">
+      <br />
+      Circle
+      <br />
+      ✅
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/ybq/AndroidSpinKit/master/art/CubeGrid.gif" width="100px">
+      <br />
+      CubeGrid
+      <br />
+      ✅
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/ybq/AndroidSpinKit/master/art/FadingCircle.gif" width="100px">
+      <br />
+      FadingCircle
+      <br />
+      ✅
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/ybq/AndroidSpinKit/master/art/RotatingCircle.gif" width="100px">
+      <br />
+      RotatingCircle
+      <br />
+      ✅
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/ybq/AndroidSpinKit/master/art/FoldingCube.gif" width="100px">
+      <br />
+      FoldingCube
+      <br />
+      ✅
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/jogboms/flutter_spinkit/master/screenshots/heart.gif" width="100px">
+      <br />
+      PumpingHeart
+      <br />
+      ✅
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/jogboms/flutter_spinkit/master/screenshots/dual-ring.gif" width="100px">
+      <br />
+      DualRing
+      <br />
+      ✅
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/jogboms/flutter_spinkit/master/screenshots/hour-glass.gif" width="100px">
+      <br />
+      HourGlass
+      <br />
+      ✅
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/jogboms/flutter_spinkit/master/screenshots/PouringHourGlass.gif" width="100px">
+      <br />
+      PouringHourGlass
+      <br />
+      ✅
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/jogboms/flutter_spinkit/master/screenshots/grid.gif" width="100px">
+      <br />
+      FadingGrid
+      <br />
+      ✅
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/jogboms/flutter_spinkit/master/screenshots/ring.gif" width="100px">
+      <br />
+      Ring
+      <br />
+      ✅
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/jogboms/flutter_spinkit/master/screenshots/ripple.gif" width="100px">
+      <br />
+      Ripple
+      <br />
+      ✅
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/jogboms/flutter_spinkit/master/screenshots/spinning-circle.gif" width="100px">
+      <br />
+      SpinningCircle
+      <br />
+      ✅
+    </td>
+  </tr>
+</table>
+
+
+---
+
+**flutter-hackernews**: https://github.com/alfianlosari/flutter-hackernews
+
+Hacker News client implemented using Flutter
+
+---
+
+**today**: https://github.com/LinXiaoTao/today
+
+仿即刻Flutter版本
+
+<img src="https://github.com/LinXiaoTao/today/raw/master/gif/jike.gif" width="320"/>
+
+---
+
+**Flutter_Bubble**: https://github.com/ACE-YANGCE/Flutter_Bubble
+
+Flutter_Bubble
+
+<img src="https://raw.githubusercontent.com/ACE-YANGCE/Flutter_Bubble/master/bubble_chat.jpg" width="320"/>
+
+---
+
+**bookshare**: https://github.com/MarcioQuimbundo/bookshare
+
+bookshare
+
+<img src="https://github.com/MarcioQuimbundo/bookshare/raw/master/preview.png" width="600"/>
+
+---
+
+**fubble**: https://github.com/cimplesid/fubble
+
+A flutter app to implement canvas
+
+<img src="https://raw.githubusercontent.com/cimplesid/fubble/master/home.png" width="320"/>
+
+---
+
+**flutter_deer**: https://github.com/simplezhli/flutter_deer
+
+Flutter 练习项目。包括完整UI设计图，更贴近真实项目的练习
+
+<img src="https://github.com/simplezhli/flutter_deer/raw/master/preview/Screenshot_3.png" width="320"/> <img src="https://github.com/simplezhli/flutter_deer/raw/master/preview/Screenshot_21.png" width="320"/>
+
+---
+
+**flutter_app**: https://github.com/shichunlei/flutter_app
+
+本项目包括各种基本控件使用（Text、TextField、Icon、Image、Listview、Gridview、Picker、Stepper、Dialog、Slider、Row、Appbar、Sizebox、BottomSheet、Chip、Dismissible、FlutterLogo、Check、Switch、TabBar、BottomNavigationBar、Sliver等）、豆瓣电影、每日一文、和天气、百姓生活、随机诗词、联系人、句子迷、好奇心日报、有道精品课、高德定位、追书神器等板块
+
+<img src="https://github.com/shichunlei/flutter_app/raw/master/screenshots/Screenshot_2019-02-28-09-40-04-052.png" width="320"/> <img src="https://github.com/shichunlei/flutter_app/raw/master/screenshots/Screenshot_2019-04-26-15-38-33-468.jpg" width="320"/>
+
+---
+
+**alice**: https://github.com/jhomlala/alice
+
+HTTP Inspector for Flutter
+
+<img src="https://github.com/jhomlala/comptf2/raw/master/media/appsmaller.gif" width="320"/>
+
+---
+
+**bezier-chart**: https://github.com/aeyrium/bezier-chart
+
+A beautiful bezier line chart widget for flutter that is highly interactive and configurable.
+
+<img src="https://camo.githubusercontent.com/32ff499304f1dec97780c0289806d051ea0449c5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f34546b63774533436d4931783775517450702f67697068792e676966" width="320"/> <img src="https://camo.githubusercontent.com/294b1cab8fd43b61b20fc7e8445f66e430c786af/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6e6937735451395a306872775073563238372f67697068792e676966" width="320"/>
+
+---
+
+**flutter_device_preview**: https://github.com/aloisdeniel/flutter_device_preview
+
+Flutter 屏幕适配
+
+<img src="https://github.com/aloisdeniel/flutter_device_preview/raw/master/device_preview.gif" width="600"/>
 
 ---
 
@@ -151,6 +425,6 @@ Vadaski-flutter_note_book, 每个demo文件代码在100行左右，十分适合 
 
 仿网易云音乐，一边学习一边开发。希望能多点star，给予动力完成此项目。
 
-<img src="https://raw.githubusercontent.com/boyan01/boyan01.github.io/master/quiet/play_interaction.gif" width="320"/><img src="https://camo.githubusercontent.com/9e82c8cb1b67d3bbd9bf0f3890b93101af373a3e/68747470733a2f2f626f79616e30312e6769746875622e696f2f71756965742f696e7465726174696f6e5f706c61796c6973742e676966" width="320"/><img src="https://camo.githubusercontent.com/abf169c2128fd8e6307904e20c300bea3b5d7ddf/68747470733a2f2f626f79616e30312e6769746875622e696f2f71756965742f6c797269632e676966" width="320"/>
+<img src="https://raw.githubusercontent.com/boyan01/boyan01.github.io/master/quiet/play_interaction.gif" width="270"/><img src="https://camo.githubusercontent.com/9e82c8cb1b67d3bbd9bf0f3890b93101af373a3e/68747470733a2f2f626f79616e30312e6769746875622e696f2f71756965742f696e7465726174696f6e5f706c61796c6973742e676966" width="270"/><img src="https://camo.githubusercontent.com/abf169c2128fd8e6307904e20c300bea3b5d7ddf/68747470733a2f2f626f79616e30312e6769746875622e696f2f71756965742f6c797269632e676966" width="270"/>
 ---
 
